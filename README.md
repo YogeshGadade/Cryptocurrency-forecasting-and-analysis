@@ -1,6 +1,7 @@
 # Cryptocurrency-Analysis-and-forecasting
 
-# Data sources: LexisNexis datbase, Twitter, coinmarketcap.com
+# Data sources: 
+LexisNexis datbase, Twitter, coinmarketcap.com
 
 # Implemented:
 1. Preprocessed structured data from coinmarketcap.com and unstructured data (text) from LexisNexis and Twitter

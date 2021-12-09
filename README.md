@@ -3,6 +3,8 @@
 # Data sources: 
 LexisNexis datbase, Twitter, coinmarketcap.com
 
+For the Twitter we used only selected accounts for scraping.
+
 # Implemented:
 1. Preprocessed structured data from coinmarketcap.com and unstructured data (text) from LexisNexis and Twitter
 2. EDA 

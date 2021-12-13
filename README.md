@@ -5,6 +5,9 @@ LexisNexis datbase, Twitter, coinmarketcap.com
 
 For the Twitter we used only selected accounts for scraping.
 
+# Input Date:
+bitcoin_data.csv, lexisnexis_raw.csv
+
 # Implemented:
 1. Preprocessed structured data from coinmarketcap.com and unstructured data (text) from LexisNexis and Twitter
 2. EDA 
